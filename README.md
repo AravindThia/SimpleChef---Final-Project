@@ -8,7 +8,7 @@ hello mate
 Android Studio 
 ==============
 
-Version 4.1.2 
+      Version 4.1.2 
 
 Introduction
 ------------
@@ -39,8 +39,6 @@ I want my app to actually help people cook delicious food. I want to get people 
 
 Table of content 
 -----------------------------
-
-• Configuration instructions
 
 • Installation instructions
 
@@ -94,10 +92,6 @@ GNU C Library (glibc) 2.19 or later
 1280 x 800 minimum screen resolution
 
 
-Operating instructions
------------------------------
-
-
 A manifest (list of files)
 -----------------------------
 
@@ -105,13 +99,7 @@ A manifest (list of files)
 Contact information
 -----------------------------
 
-
-Bug List
------------------------------
-
-
-Troubleshooting tips
------------------------------
+     arvinthiagarajan@gmail.com
 
 
 
