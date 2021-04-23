@@ -28,6 +28,13 @@ I made a lot of recipes that are super simple so anyone can make them. I was loo
 Simplechef is an app that will have all my recipes with proper step-by-step instructions on how to cook the food. I want this app to be free and help people cook delicious food with cheap and simple ingredients. 
 
 
+My main Goal for this Project
+-----------------------------
+
+The main goal of this project is to create an app with simple recipes for people to cook. I want the app to be very clear, easy to use (no complication), I don't only want to have step by step, I want pictures, videos, and the steps on the page for the recipes.  
+I want my app to actually help people cook delicious food. I want to get people to cook for themselves and hopefully, they will learn to enjoy cooking.
+
+
 Table of content 
 -----------------------------
 
