@@ -92,9 +92,17 @@ GNU C Library (glibc) 2.19 or later
 1280 x 800 minimum screen resolution
 
 
-A manifest (list of files)
+The Important files
 -----------------------------
-
+      GridView in activity_main
+ All the Food Products are set in the GridView, so whenever the user interact with a specific Food Product its will display the image description and the name of the Food.
+ 
+      Project Resource drawable folder
+ This is where the picture of the Food will be pasted and stored. All the images that was copy pasted will be available in the drawable folder
+ 
+ 
+ 
+ 
 
 Contact information
 -----------------------------
