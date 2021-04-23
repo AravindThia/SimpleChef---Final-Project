@@ -100,6 +100,9 @@ The Important files
       Project Resource drawable folder
  This is where the picture of the Food will be pasted and stored. All the images that was copy pasted will be available in the drawable folder
  
+      Kotlin class
+ To handle all the Images and the functions.
+ 
  
  
  
@@ -114,3 +117,14 @@ Contact information
 
 Features list
 -----------------------------
+      Simplicity
+      
+      Speed
+      
+      Good image resolution
+      
+      Flexibility
+      
+      Bright and bold colour schemes
+      
+      Updates
