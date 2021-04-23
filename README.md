@@ -1,55 +1,31 @@
 # SimpleChef---Final-Project
+================================
+
 Aravind Thiagarajan - 0886609
 
 hello mate
 
-Markdown
-========
+Android Studio 
+==============
 
-Version 1.0.1 - Tue 14 Dec 2004
-
-by John Gruber  
-<http://daringfireball.net/>
-
+Version 4.1.2 
 
 Introduction
 ------------
 
-Markdown is a text-to-HTML conversion tool for web writers. Markdown
-allows you to write using an easy-to-read, easy-to-write plain text
-format, then convert it to structurally valid XHTML (or HTML).
 
-Thus, "Markdown" is two things: a plain text markup syntax, and a
-software tool, written in Perl, that converts the plain text markup 
-to HTML.
-
-Markdown works both as a Movable Type plug-in and as a standalone Perl
-script -- which means it can also be used as a text filter in BBEdit
-(or any other application that supporst filters written in Perl).
-
-Full documentation of Markdown's syntax and configuration options is
-available on the web: <http://daringfireball.net/projects/markdown/>.
-(Note: this readme file is formatted in Markdown.)
 
 
 
 Installation and Requirements
 -----------------------------
 
-Markdown requires Perl 5.6.0 or later. Welcome to the 21st Century.
-Markdown also requires the standard Perl library module `Digest::MD5`. 
+
 
 
 ### Movable Type ###
 
-Markdown works with Movable Type version 2.6 or later (including 
-MT 3.0 or later).
 
-1.  Copy the "Markdown.pl" file into your Movable Type "plugins"
-    directory. The "plugins" directory should be in the same directory
-    as "mt.cgi"; if the "plugins" directory doesn't already exist, use
-    your FTP program to create it. Your installation should look like
-    this:
 
         (mt home)/plugins/Markdown.pl
 
