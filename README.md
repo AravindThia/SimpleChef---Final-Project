@@ -39,14 +39,47 @@ Table of content
 
 • A manifest (list of files)
 
-• Copyright information
-
 • Contact information
 
 • Bug list
 
 • Troubleshooting tips
 
-• Credits and acknowledgements
+• Clear install instructions
+
+• Features list
+
+Configuration instructions
+-----------------------------
 
 
+Installation instructions
+-----------------------------
+
+
+Operating instructions
+-----------------------------
+
+
+A manifest (list of files)
+-----------------------------
+
+
+Contact information
+-----------------------------
+
+
+Bug List
+-----------------------------
+
+
+Troubleshooting tips
+-----------------------------
+
+
+Clear install instructions
+-----------------------------
+
+
+Features list
+-----------------------------
